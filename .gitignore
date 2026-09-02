@@ -3,3 +3,4 @@ node_modules/
 **/uploads/ 
 donateTofeed01/frontend/dist/ 
 .vs/ 
+**/.env 
